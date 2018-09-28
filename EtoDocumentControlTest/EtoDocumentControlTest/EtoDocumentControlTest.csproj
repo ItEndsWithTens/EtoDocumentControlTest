@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	
+  <PropertyGroup>
+    <TargetFramework>netstandard1.6</TargetFramework>
+    <RootNamespace>EtoDocumentControlTest</RootNamespace>
+    <PackageVersion>1.0</PackageVersion>
+    <Title>EtoDocumentControlTest</Title>
+    <Copyright>Copyright © 2018</Copyright>
+    <Description>Description of EtoDocumentControlTest</Description>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="Eto.Forms" Version="2.5.0-ci-10013" />
+  </ItemGroup>
+  
+</Project>
